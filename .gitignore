@@ -1,0 +1,8 @@
+node_modules/
+out/
+dist/
+.pr-review-tool/
+.demo-repos/
+packages/review-labeler/
+.DS_Store
+npm-debug.log*
